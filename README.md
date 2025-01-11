@@ -1,4 +1,4 @@
-A processing code to visualize dynamical systems (Lorenz system, Aizawa system, Halvorsen are implemented but other ones could be easily added). The integration method is forward Euler.  
+A processing code to visualize dynamical systems. Lorenz, Aizawa, Halvorsen systems are implemented but other ones could be easily added. The integration method is forward Euler.  
 
 #### How to run the code:  
 Install processing and run the code dynamical_systems.pde. Note that the extension PeasyCam must be installed.
